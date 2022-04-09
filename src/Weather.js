@@ -60,7 +60,8 @@ export default function Weather() {
       <small>
         <a
           href="https://github.com/michellejeppesen/weather-react-week4"
-          target="_blank"
+                  target="_blank"
+                  rel="noreferrer noopener"
         >
           {" "}
           Open-source code
