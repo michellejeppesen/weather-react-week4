@@ -57,17 +57,6 @@ export default function Weather() {
           </ul>
         </div>
       </div>
-      <small>
-        <a
-          href="https://github.com/michellejeppesen/weather-react-week4"
-                  target="_blank"
-                  rel="noreferrer noopener"
-        >
-          {" "}
-          Open-source code
-        </a>{" "}
-        by Michelle Jepepsen
-      </small>
     </div>
   );
 }
